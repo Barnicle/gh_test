@@ -1,0 +1,359 @@
+[
+  {
+    "destXcmFee": "213941760000000",
+    "weight": "800000000",
+    "symbol": "MOVR",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "8012800000",
+    "weight": "800000000",
+    "symbol": "KAR",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "8",
+    "weight": "800000000",
+    "symbol": "USDt",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "8012800",
+    "weight": "800000000",
+    "symbol": "RMRK",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "32051200000",
+    "weight": "800000000",
+    "symbol": "aUSD",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "6410240000",
+    "weight": "800000000",
+    "symbol": "BNC",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "80128000",
+    "weight": "800000000",
+    "symbol": "vKSM",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "12019200000000000",
+    "weight": "800000000",
+    "symbol": "ZLK",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "6410240000",
+    "weight": "800000000",
+    "symbol": "xcBNC",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "9615384615",
+    "weight": "800000000",
+    "symbol": "KINT",
+    "destChain": "Moonriver",
+    "chainId": "401a1f9dca3da46f5c4091016c8a2f26dcea05865116b286f60f668207d1474b"
+  },
+  {
+    "destXcmFee": "65168231790346240",
+    "weight": "800000000",
+    "symbol": "SDN",
+    "destChain": "Moonriver",
+    "chainId": "401a1f9dca3da46f5c4091016c8a2f26dcea05865116b286f60f668207d1474b"
+  },
+  {
+    "destXcmFee": "7092198",
+    "weight": "800000000",
+    "symbol": "XRT",
+    "destChain": "Moonriver",
+    "chainId": "401a1f9dca3da46f5c4091016c8a2f26dcea05865116b286f60f668207d1474b"
+  },
+  {
+    "destXcmFee": "10945110271984",
+    "weight": "800000000",
+    "symbol": "KMA",
+    "destChain": "Moonriver",
+    "chainId": "401a1f9dca3da46f5c4091016c8a2f26dcea05865116b286f60f668207d1474b"
+  },
+  {
+    "destXcmFee": "144787200000",
+    "weight": "800000000",
+    "symbol": "PHA",
+    "destChain": "Karura",
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b"
+  },
+  {
+    "destXcmFee": "128",
+    "weight": "800000000",
+    "symbol": "KBTC",
+    "destChain": "Karura",
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b"
+  },
+  {
+    "destXcmFee": "80824000000000000",
+    "weight": "800000000",
+    "symbol": "QTZ",
+    "destChain": "Karura",
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b"
+  },
+  {
+    "destXcmFee": "463749148",
+    "weight": "800000000",
+    "symbol": "LKSM",
+    "destChain": "Karura",
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b"
+  },
+  {
+    "destXcmFee": "80824000000",
+    "weight": "800000000",
+    "symbol": "BSX",
+    "destChain": "Karura",
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "800000000",
+    "symbol": "DAI",
+    "destChain": "Karura",
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b"
+  },
+  {
+    "destXcmFee": "80824000000",
+    "weight": "800000000",
+    "symbol": "CSM",
+    "destChain": "Karura",
+    "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b"
+  },
+  {
+    "destXcmFee": "1000",
+    "weight": "300486000",
+    "symbol": "USDT",
+    "destChain": "Statemine",
+    "chainId": "48239ef607d7928874027a43a67689209727dfb3d3dc5e5b03a39bdc2eda771a"
+  },
+  {
+    "destXcmFee": "100000",
+    "weight": "300486000",
+    "symbol": "xcRMRK",
+    "destChain": "Statemine",
+    "chainId": "48239ef607d7928874027a43a67689209727dfb3d3dc5e5b03a39bdc2eda771a"
+  },
+  {
+    "destXcmFee": "1000",
+    "weight": "300486000",
+    "symbol": "xcUSDT",
+    "destChain": "Statemine",
+    "chainId": "48239ef607d7928874027a43a67689209727dfb3d3dc5e5b03a39bdc2eda771a"
+  },
+  {
+    "destXcmFee": "9998000000",
+    "weight": "158004000",
+    "symbol": "KSM",
+    "destChain": "Statemine",
+    "chainId": "48239ef607d7928874027a43a67689209727dfb3d3dc5e5b03a39bdc2eda771a"
+  },
+  {
+    "destXcmFee": "107",
+    "weight": "800000000",
+    "symbol": "xcKBTC",
+    "destChain": "Kintsugi",
+    "chainId": "9af9a64e6e4da8e3073901c3ff0cc4c3aad9563786d89daf6ad820b6e14a0b8b"
+  },
+  {
+    "destXcmFee": "215530666",
+    "weight": "800000000",
+    "symbol": "xcKINT",
+    "destChain": "Kintsugi",
+    "chainId": "9af9a64e6e4da8e3073901c3ff0cc4c3aad9563786d89daf6ad820b6e14a0b8b"
+  },
+  {
+    "destXcmFee": "80128000000",
+    "weight": "800000000",
+    "symbol": "xcPHA",
+    "destChain": "Khala",
+    "chainId": "d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d"
+  },
+  {
+    "destXcmFee": "452335",
+    "weight": "0",
+    "symbol": "xcXRT",
+    "destChain": "Basilisk",
+    "chainId": "a85cfb9b9fd4d622a5b28289a02347af987d8f73fa3108450e2b4a11c1ce5755"
+  },
+  {
+    "destXcmFee": "2926000000000",
+    "weight": "0",
+    "symbol": "WETH",
+    "destChain": "Basilisk",
+    "chainId": "a85cfb9b9fd4d622a5b28289a02347af987d8f73fa3108450e2b4a11c1ce5755"
+  },
+  {
+    "destXcmFee": "22",
+    "weight": "0",
+    "symbol": "WBTC",
+    "destChain": "Basilisk",
+    "chainId": "a85cfb9b9fd4d622a5b28289a02347af987d8f73fa3108450e2b4a11c1ce5755"
+  },
+  {
+    "destXcmFee": "322560000",
+    "weight": "600000000",
+    "symbol": "TUR",
+    "destChain": "Mangata",
+    "chainId": "d611f22d291c5b7b69f1e105cca03352984c344c4421977efaa4cbdd1834e2aa"
+  },
+  {
+    "destXcmFee": "808240000",
+    "weight": "800000000",
+    "symbol": "GLMR",
+    "destChain": "Bifrost Polkadot",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "2823423118",
+    "weight": "800000000",
+    "symbol": "INTR",
+    "destChain": "Moonbeam",
+    "chainId": "fe58ea77779b7abda7da4ec526d14db9b1e9cd40a217c34892af80a9b332b76d"
+  },
+  {
+    "destXcmFee": "79859447372624180",
+    "weight": "800000000",
+    "symbol": "ASTR",
+    "destChain": "Moonbeam",
+    "chainId": "fe58ea77779b7abda7da4ec526d14db9b1e9cd40a217c34892af80a9b332b76d"
+  },
+  {
+    "destXcmFee": "92427848510",
+    "weight": "800000000",
+    "symbol": "ACA",
+    "destChain": "Moonbeam",
+    "chainId": "fe58ea77779b7abda7da4ec526d14db9b1e9cd40a217c34892af80a9b332b76d"
+  },
+  {
+    "destXcmFee": "93",
+    "weight": "800000000",
+    "symbol": "IBTC",
+    "destChain": "Moonbeam",
+    "chainId": "fe58ea77779b7abda7da4ec526d14db9b1e9cd40a217c34892af80a9b332b76d"
+  },
+  {
+    "destXcmFee": "1547120",
+    "weight": "800000000",
+    "symbol": "lcDOT",
+    "destChain": "Acala",
+    "chainId": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c"
+  },
+  {
+    "destXcmFee": "101029999999451140",
+    "weight": "800000000",
+    "symbol": "UNQ",
+    "destChain": "Acala",
+    "chainId": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c"
+  },
+  {
+    "destXcmFee": "13400229",
+    "weight": "800000000",
+    "symbol": "LDOT",
+    "destChain": "Acala",
+    "chainId": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c"
+  },
+  {
+    "destXcmFee": "1815098681",
+    "weight": "800000000",
+    "symbol": "xcaUSD",
+    "destChain": "Acala",
+    "chainId": "fc41b9bd8ef8fe53d58c7ea67c794c7ec9a73daf05e6d54b14ff6342c99ba64c"
+  },
+  {
+    "destXcmFee": "18886316",
+    "weight": "800000000",
+    "symbol": "xcINTR",
+    "destChain": "Interlay",
+    "chainId": "bf88efe70e9e0e916416e8bed61f2b45717f517d7f3523e33c7b001e5ffcbc72"
+  },
+  {
+    "destXcmFee": "62",
+    "weight": "800000000",
+    "symbol": "xcIBTC",
+    "destChain": "Interlay",
+    "chainId": "bf88efe70e9e0e916416e8bed61f2b45717f517d7f3523e33c7b001e5ffcbc72"
+  },
+  {
+    "destXcmFee": "30769230",
+    "weight": "600000000",
+    "symbol": "LcDOT",
+    "destChain": "Parallel",
+    "chainId": "e61a41c53f5dcd0beb09df93b34402aada44cb05117b71059cce40a2723a4e97"
+  },
+  {
+    "destXcmFee": "4041465435366864",
+    "weight": "4000000000",
+    "symbol": "xcASTR",
+    "destChain": "Astar",
+    "chainId": "9eb76c5184c4ab8679d2d5d819fdf90b9c001403e9e17da2e14b6d8aec4029c6"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "xcEQ",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "cDOT-7/14",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "cDOT-8/15",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "EQ",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "xcEQD",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "cDOT-6/13",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "EQD",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  }
+]
