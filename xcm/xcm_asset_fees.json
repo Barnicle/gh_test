@@ -1,0 +1,86 @@
+[
+  {
+    "destXcmFee": "220003202562",
+    "weight": "800000000",
+    "symbol": "INTR",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "297973778308",
+    "weight": "800000000",
+    "symbol": "xcEQ",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "72022502332",
+    "weight": "800000000",
+    "symbol": "cDOT-7/14",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "115001615321",
+    "weight": "800000000",
+    "symbol": "cDOT-8/15",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "174084252242345750000",
+    "weight": "800000000",
+    "symbol": "GLMR",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "1.7999999982015577e+21",
+    "weight": "800000000",
+    "symbol": "ASTR",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "265041081368",
+    "weight": "800000000",
+    "symbol": "EQ",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "-1170827900059",
+    "weight": "800000000",
+    "symbol": "USDt",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "-269591590",
+    "weight": "800000000",
+    "symbol": "IBTC",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "100000000",
+    "weight": "800000000",
+    "symbol": "xcEQD",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "2457263099",
+    "weight": "800000000",
+    "symbol": "cDOT-6/13",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "100000000",
+    "weight": "800000000",
+    "symbol": "EQD",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  }
+]
