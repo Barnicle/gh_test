@@ -1,0 +1,72 @@
+[
+  {
+    "destXcmFee": "213941760000000",
+    "weight": "800000000",
+    "symbol": "MOVR",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "8012800000",
+    "weight": "800000000",
+    "symbol": "KAR",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "8",
+    "weight": "800000000",
+    "symbol": "USDt",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "8012800",
+    "weight": "800000000",
+    "symbol": "RMRK",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "32051200000",
+    "weight": "800000000",
+    "symbol": "aUSD",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "6410240000",
+    "weight": "800000000",
+    "symbol": "BNC",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "80128000",
+    "weight": "800000000",
+    "symbol": "vKSM",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "12019200000000000",
+    "weight": "800000000",
+    "symbol": "ZLK",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "6410240000",
+    "weight": "800000000",
+    "symbol": "xcBNC",
+    "destChain": "Bifrost Kusama",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  },
+  {
+    "destXcmFee": "813694976",
+    "weight": "800000000",
+    "symbol": "GLMR",
+    "destChain": "Bifrost Polkadot",
+    "chainId": "9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed"
+  }
+]
