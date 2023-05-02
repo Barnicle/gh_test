@@ -1,0 +1,86 @@
+[
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "INTR",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "xcEQ",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "cDOT-7/14",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "cDOT-8/15",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "GLMR",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "ASTR",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "EQ",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "USDt",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "IBTC",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "xcEQD",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "cDOT-6/13",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  },
+  {
+    "destXcmFee": "0",
+    "weight": "0",
+    "symbol": "EQD",
+    "destChain": "Equilibrium",
+    "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907"
+  }
+]
