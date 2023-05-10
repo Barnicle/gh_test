@@ -202,7 +202,7 @@
     "destChain": "Basilisk",
     "destXcmFee": [
       {
-        "feeInPlanks": "118495352",
+        "feeInPlanks": "118936157",
         "symbol": "KSM"
       },
       {
@@ -293,6 +293,14 @@
     "destChain": "Moonbeam",
     "destXcmFee": [
       {
+        "feeInPlanks": "79859447372624181",
+        "symbol": "ASTR"
+      },
+      {
+        "feeInPlanks": "92427848510",
+        "symbol": "ACA"
+      },
+      {
         "feeInPlanks": "20000000000",
         "symbol": "aUSD"
       },
@@ -307,10 +315,6 @@
       {
         "feeInPlanks": "2823423118",
         "symbol": "INTR"
-      },
-      {
-        "feeInPlanks": "79859447372624181",
-        "symbol": "ASTR"
       }
     ],
     "weight": "800000000"
@@ -374,12 +378,16 @@
     "destChain": "Parallel",
     "destXcmFee": [
       {
+        "feeInPlanks": "30769230",
+        "symbol": "LcDOT"
+      },
+      {
         "feeInPlanks": "32226877",
         "symbol": "DOT"
       },
       {
-        "feeInPlanks": "30769230",
-        "symbol": "LcDOT"
+        "feeInPlanks": "117647058823",
+        "symbol": "ACA"
       },
       {
         "feeInPlanks": "6535947712",
@@ -388,10 +396,6 @@
       {
         "feeInPlanks": "44033465433729636",
         "symbol": "GLMR"
-      },
-      {
-        "feeInPlanks": "117647058823",
-        "symbol": "ACA"
       }
     ],
     "weight": "600000000"
@@ -428,16 +432,16 @@
     "destChain": "Statemint",
     "destXcmFee": [
       {
+        "feeInPlanks": "700000",
+        "symbol": "1000"
+      },
+      {
         "feeInPlanks": "0",
         "symbol": "DOT"
       },
       {
         "feeInPlanks": "700000",
         "symbol": "USDT"
-      },
-      {
-        "feeInPlanks": "700000",
-        "symbol": "1000"
       }
     ],
     "weight": "1171364000"
