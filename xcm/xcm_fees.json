@@ -4,20 +4,20 @@
     "destChain": "Bifrost Kusama",
     "destXcmFee": [
       {
-        "feeInPlanks": "213941760000000",
-        "symbol": "MOVR"
+        "feeInPlanks": "6410240000",
+        "symbol": "BNC"
+      },
+      {
+        "feeInPlanks": "80128000",
+        "symbol": "KSM"
       },
       {
         "feeInPlanks": "12019200000000000",
         "symbol": "ZLK"
       },
       {
-        "feeInPlanks": "914790730641",
-        "symbol": "KSM"
-      },
-      {
-        "feeInPlanks": "400000000",
-        "symbol": "BNC"
+        "feeInPlanks": "213941760000000",
+        "symbol": "MOVR"
       },
       {
         "feeInPlanks": "8012800000",
@@ -289,6 +289,10 @@
     "destChain": "Moonbeam",
     "destXcmFee": [
       {
+        "feeInPlanks": "26455026",
+        "symbol": "DOT"
+      },
+      {
         "feeInPlanks": "79859447372624181",
         "symbol": "ASTR"
       },
@@ -303,10 +307,6 @@
       {
         "feeInPlanks": "800000000000000",
         "symbol": "GLMR"
-      },
-      {
-        "feeInPlanks": "26455026",
-        "symbol": "DOT"
       },
       {
         "feeInPlanks": "2823423118",
@@ -401,16 +401,16 @@
     "destChain": "Astar",
     "destXcmFee": [
       {
+        "feeInPlanks": "4000000",
+        "symbol": "DOT"
+      },
+      {
         "feeInPlanks": "0",
         "symbol": "ASTR"
       },
       {
         "feeInPlanks": "1108000000",
         "symbol": "ACA"
-      },
-      {
-        "feeInPlanks": "4000000",
-        "symbol": "DOT"
       },
       {
         "feeInPlanks": "252800000",
@@ -443,7 +443,7 @@
     "destChain": "Equilibrium",
     "destXcmFee": [
       {
-        "feeInPlanks": "18835939",
+        "feeInPlanks": "18796992",
         "symbol": "DOT"
       },
       {
