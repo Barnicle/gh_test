@@ -4,16 +4,16 @@
     "destChain": "Bifrost Kusama",
     "destXcmFee": [
       {
-        "feeInPlanks": "6410240000",
-        "symbol": "BNC"
-      },
-      {
         "feeInPlanks": "80128000",
         "symbol": "KSM"
       },
       {
         "feeInPlanks": "12019200000000000",
         "symbol": "ZLK"
+      },
+      {
+        "feeInPlanks": "6410240000",
+        "symbol": "BNC"
       },
       {
         "feeInPlanks": "213941760000000",
@@ -26,14 +26,6 @@
       {
         "feeInPlanks": "80128000",
         "symbol": "vKSM"
-      },
-      {
-        "feeInPlanks": "32051200000",
-        "symbol": "aUSD"
-      },
-      {
-        "feeInPlanks": "8012800",
-        "symbol": "RMRK"
       }
     ],
     "weight": "800000000"
