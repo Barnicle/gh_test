@@ -221,7 +221,7 @@
         "symbol": "KSM"
       },
       {
-        "feeInPlanks": "1895734597156864",
+        "feeInPlanks": "1895734597156352",
         "symbol": "MOVR"
       },
       {
@@ -436,7 +436,7 @@
         "symbol": "USDT"
       }
     ],
-    "weight": "1020687000"
+    "weight": "1171364000"
   },
   {
     "chainId": "89d3ec46d2fb43ef5a9713833373d5ea666b092fa8fd68fbc34596036571b907",
