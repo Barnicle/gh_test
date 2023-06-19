@@ -386,11 +386,11 @@
     "destChain": "Astar",
     "destXcmFee": [
       {
-        "feeInPlanks": "368421524",
+        "feeInPlanks": "4000000",
         "symbol": "DOT"
       },
       {
-        "feeInPlanks": "4041465435366912",
+        "feeInPlanks": "4041465435258880",
         "symbol": "ASTR"
       },
       {
@@ -402,8 +402,24 @@
         "symbol": "aUSD"
       },
       {
-        "feeInPlanks": "143941465435366864",
+        "feeInPlanks": "318200000000000",
         "symbol": "GLMR"
+      },
+      {
+        "symbol": "INTR",
+        "feeInPlanks": "38360000"
+      },
+      {
+        "symbol": "IBTC",
+        "feeInPlanks": "4"
+      },
+      {
+        "symbol": "USDt",
+        "feeInPlanks": "840"
+      },
+      {
+        "symbol": "xcASTR",
+        "feeInPlanks": "4041465435367424"
       }
     ],
     "weight": "4000000000"
