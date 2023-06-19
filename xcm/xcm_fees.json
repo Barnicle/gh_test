@@ -96,7 +96,7 @@
       },
       {
         "symbol": "MGX",
-        "feeInPlanks": "22809569706614120448"
+        "feeInPlanks": "22809569706614128640"
       }
     ],
     "weight": "960000000"
@@ -678,11 +678,11 @@
     "destChain": "Kusama",
     "destXcmFee": [
       {
-        "feeInPlanks": "90005800",
+        "feeInPlanks": "89768393",
         "symbol": "KSM"
       }
     ],
-    "weight": "359407200"
+    "weight": "358459200"
   },
   {
     "chainId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
