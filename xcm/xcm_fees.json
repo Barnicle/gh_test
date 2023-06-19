@@ -40,7 +40,7 @@
         "feeInPlanks": "8"
       }
     ],
-    "weight": "960000000"
+    "weight": "800000000"
   },
   {
     "chainId": "401a1f9dca3da46f5c4091016c8a2f26dcea05865116b286f60f668207d1474b",
@@ -147,7 +147,7 @@
       },
       {
         "symbol": "BSX",
-        "feeInPlanks": "0"
+        "feeInPlanks": "80128000000"
       },
       {
         "symbol": "xcAUSD",
@@ -434,7 +434,7 @@
       },
       {
         "symbol": "LDOT",
-        "feeInPlanks": "0"
+        "feeInPlanks": "13400229"
       },
       {
         "symbol": "xcaUSD",
@@ -637,6 +637,18 @@
       {
         "symbol": "USDt",
         "feeInPlanks": "0"
+      },
+      {
+        "symbol": "BNC",
+        "feeInPlanks": "646592000"
+      },
+      {
+        "symbol": "ASTR",
+        "feeInPlanks": "8082400000000"
+      },
+      {
+        "symbol": "vDOT",
+        "feeInPlanks": "926"
       }
     ],
     "weight": "800000000"
@@ -791,7 +803,7 @@
         "symbol": "IBTC"
       },
       {
-        "feeInPlanks": "4555085",
+        "feeInPlanks": "4556567",
         "symbol": "DOT"
       },
       {
