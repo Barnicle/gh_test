@@ -404,6 +404,38 @@
       {
         "feeInPlanks": "143941465435366864",
         "symbol": "GLMR"
+      },
+      {
+        "symbol": "intr",
+        "feeInPlanks": "38360000"
+      },
+      {
+        "symbol": "ibtc",
+        "feeInPlanks": "4"
+      },
+      {
+        "symbol": "dot",
+        "feeInPlanks": "4000000"
+      },
+      {
+        "symbol": "usdt",
+        "feeInPlanks": "840"
+      },
+      {
+        "symbol": "ausd",
+        "feeInPlanks": "252800000"
+      },
+      {
+        "symbol": "astr",
+        "feeInPlanks": "4041465435367424"
+      },
+      {
+        "symbol": "glmr",
+        "feeInPlanks": "318200000000000"
+      },
+      {
+        "symbol": "aca",
+        "feeInPlanks": "1108000000"
       }
     ],
     "weight": "4000000000"
