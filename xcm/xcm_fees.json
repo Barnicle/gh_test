@@ -99,7 +99,7 @@
         "feeInPlanks": "22809569706614128640"
       }
     ],
-    "weight": "960000000"
+    "weight": "800000000"
   },
   {
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
@@ -147,7 +147,7 @@
       },
       {
         "symbol": "BSX",
-        "feeInPlanks": "0"
+        "feeInPlanks": "80128000000"
       },
       {
         "symbol": "xcAUSD",
@@ -156,6 +156,10 @@
       {
         "symbol": "xcKAR",
         "feeInPlanks": "8012800000"
+      },
+      {
+        "symbol": "SDN",
+        "feeInPlanks": "801280000000000"
       }
     ],
     "weight": "800000000"
@@ -285,7 +289,7 @@
     "destChain": "Parallel Heiko",
     "destXcmFee": [
       {
-        "feeInPlanks": "486973459",
+        "feeInPlanks": "717970595",
         "symbol": "KSM"
       },
       {
@@ -353,6 +357,10 @@
       {
         "feeInPlanks": "6400000000",
         "symbol": "LKSM"
+      },
+      {
+        "symbol": "SDN",
+        "feeInPlanks": "1664000000"
       }
     ],
     "weight": "4000000000"
@@ -434,7 +442,7 @@
       },
       {
         "symbol": "LDOT",
-        "feeInPlanks": "0"
+        "feeInPlanks": "13400229"
       },
       {
         "symbol": "xcaUSD",
@@ -503,7 +511,7 @@
         "feeInPlanks": "307692307"
       }
     ],
-    "weight": "720000000"
+    "weight": "600000000"
   },
   {
     "chainId": "9eb76c5184c4ab8679d2d5d819fdf90b9c001403e9e17da2e14b6d8aec4029c6",
@@ -637,6 +645,18 @@
       {
         "symbol": "USDt",
         "feeInPlanks": "0"
+      },
+      {
+        "symbol": "BNC",
+        "feeInPlanks": "646592000"
+      },
+      {
+        "symbol": "ASTR",
+        "feeInPlanks": "8082400000000"
+      },
+      {
+        "symbol": "vDOT",
+        "feeInPlanks": "926"
       }
     ],
     "weight": "800000000"
@@ -791,7 +811,7 @@
         "symbol": "IBTC"
       },
       {
-        "feeInPlanks": "4555085",
+        "feeInPlanks": "4556567",
         "symbol": "DOT"
       },
       {
