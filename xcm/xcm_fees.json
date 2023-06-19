@@ -96,7 +96,7 @@
       },
       {
         "symbol": "MGX",
-        "feeInPlanks": "22809569706614128640"
+        "feeInPlanks": "22809569706614120448"
       }
     ],
     "weight": "960000000"
@@ -147,7 +147,7 @@
       },
       {
         "symbol": "BSX",
-        "feeInPlanks": "0"
+        "feeInPlanks": "80128000000"
       },
       {
         "symbol": "xcAUSD",
@@ -156,6 +156,10 @@
       {
         "symbol": "xcKAR",
         "feeInPlanks": "8012800000"
+      },
+      {
+        "symbol": "SDN",
+        "feeInPlanks": "801280000000000"
       }
     ],
     "weight": "800000000"
@@ -249,6 +253,10 @@
       {
         "symbol": "xcPHA",
         "feeInPlanks": "80128000000"
+      },
+      {
+        "symbol": "KSM",
+        "feeInPlanks": "0"
       }
     ],
     "weight": "800000000"
@@ -262,7 +270,7 @@
         "symbol": "KSM"
       },
       {
-        "feeInPlanks": "5623268443",
+        "feeInPlanks": "5293327189",
         "symbol": "aUSD"
       },
       {
@@ -353,6 +361,14 @@
       {
         "feeInPlanks": "6400000000",
         "symbol": "LKSM"
+      },
+      {
+        "symbol": "KSM",
+        "feeInPlanks": "0"
+      },
+      {
+        "symbol": "SDN",
+        "feeInPlanks": "1664000000"
       }
     ],
     "weight": "4000000000"
@@ -780,7 +796,7 @@
         "feeInPlanks": "160"
       }
     ],
-    "weight": "800000000"
+    "weight": "960000000"
   },
   {
     "chainId": "afdc188f45c71dacbaa0b62e16a91f726c7b8699a9748cdf715459de6b7f366d",
