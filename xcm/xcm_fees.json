@@ -1016,5 +1016,27 @@
       }
     ],
     "weight": "1009565000"
+  },
+  {
+    "chainId": "1bb969d85965e4bb5a651abbedf21a54b6b31a21f66b5401cc3f1e286268d736",
+    "destChain": "Phala",
+    "destXcmFee": [
+      {
+        "feeInPlanks": "80128000000",
+        "symbol": "PHA",
+        "precision": "12"
+      },
+      {
+        "feeInPlanks": "8000000000000000",
+        "symbol": "GLMR",
+        "precision": "18"
+      },
+      {
+        "feeInPlanks": "32000000000000000",
+        "symbol": "ASTR",
+        "precision": "18"
+      }
+    ],
+    "weight": "800000000"
   }
 ]
