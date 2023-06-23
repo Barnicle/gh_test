@@ -716,41 +716,41 @@
     "destChain": "Equilibrium",
     "destXcmFee": [
       {
-        "feeInPlanks": "55127878677",
+        "feeInPlanks": "365185604429",
         "symbol": "DOT",
         "precision": "10"
       },
       {
-        "feeInPlanks": "3720",
+        "feeInPlanks": "3970",
         "symbol": "IBTC"
       },
       {
-        "feeInPlanks": "974183980",
+        "feeInPlanks": "28148977",
         "symbol": "cDOT-7/14",
         "precision": "10"
       },
       {
-        "feeInPlanks": "1471757994878",
+        "feeInPlanks": "25799459",
         "symbol": "cDOT-6/13",
         "precision": "10"
       },
       {
-        "feeInPlanks": "100372717009104420864",
+        "feeInPlanks": "351370344",
         "symbol": "GLMR",
         "precision": "18"
       },
       {
-        "feeInPlanks": "1782433088244331053056",
+        "feeInPlanks": "2183406113",
         "symbol": "ASTR",
         "precision": "18"
       },
       {
-        "feeInPlanks": "57544728395061",
+        "feeInPlanks": "6172839506",
         "symbol": "INTR",
         "precision": "10"
       },
       {
-        "feeInPlanks": "45024468202",
+        "feeInPlanks": "26239493",
         "symbol": "cDOT-8/15"
       },
       {
@@ -769,6 +769,10 @@
         "symbol": "EQD",
         "feeInPlanks": "100000000",
         "precision": "9"
+      },
+      {
+        "symbol": "USDt",
+        "feeInPlanks": "100000000"
       }
     ],
     "weight": "960000000"
