@@ -202,6 +202,10 @@
       {
         "symbol": "TEER",
         "feeInPlanks": "8012800000"
+      },
+      {
+        "symbol": "AIR",
+        "feeInPlanks": "12403363983"
       }
     ],
     "weight": "800000000"
