@@ -716,7 +716,7 @@
     "destChain": "Equilibrium",
     "destXcmFee": [
       {
-        "feeInPlanks": "55127878677",
+        "feeInPlanks": "328706228939",
         "symbol": "DOT",
         "precision": "10"
       },
@@ -735,12 +735,12 @@
         "precision": "10"
       },
       {
-        "feeInPlanks": "100372717009104420864",
+        "feeInPlanks": "5351370339342938112",
         "symbol": "GLMR",
         "precision": "18"
       },
       {
-        "feeInPlanks": "1782433088244331053056",
+        "feeInPlanks": "202183405913537118208",
         "symbol": "ASTR",
         "precision": "18"
       },
@@ -750,8 +750,9 @@
         "precision": "10"
       },
       {
-        "feeInPlanks": "45024468202",
-        "symbol": "cDOT-8/15"
+        "feeInPlanks": "943918024",
+        "symbol": "cDOT-8/15",
+        "precision": "10"
       },
       {
         "feeInPlanks": "316706254948",
