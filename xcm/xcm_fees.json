@@ -68,7 +68,7 @@
         "precision": "12"
       },
       {
-        "feeInPlanks": "40000000000000",
+        "feeInPlanks": "8000000000000",
         "symbol": "MOVR",
         "precision": "18"
       },
@@ -83,7 +83,7 @@
         "precision": "12"
       },
       {
-        "feeInPlanks": "10945110271984",
+        "feeInPlanks": "10945110271985",
         "symbol": "KMA",
         "precision": "12"
       },
@@ -93,12 +93,12 @@
         "precision": "8"
       },
       {
-        "feeInPlanks": "65168231790346240",
+        "feeInPlanks": "65168231790366831",
         "symbol": "SDN",
         "precision": "18"
       },
       {
-        "feeInPlanks": "62111801",
+        "feeInPlanks": "80999590834698",
         "symbol": "RMRK",
         "precision": "10"
       },
@@ -118,7 +118,7 @@
       },
       {
         "symbol": "MGX",
-        "feeInPlanks": "22809569706614120448",
+        "feeInPlanks": "22809569706614122176",
         "precision": "18"
       }
     ],
