@@ -167,7 +167,7 @@
         "precision": "18"
       },
       {
-        "symbol": "KUSD",
+        "symbol": "AUSD",
         "feeInPlanks": "2120203588",
         "precision": "12"
       },
@@ -337,7 +337,7 @@
         "precision": "6"
       },
       {
-        "symbol": "KUSD",
+        "symbol": "AUSD",
         "feeInPlanks": "5320500111",
         "precision": "12"
       },
@@ -791,7 +791,7 @@
         "precision": "10"
       },
       {
-        "feeInPlanks": "110000069600",
+        "feeInPlanks": "703920000",
         "symbol": "GLMR",
         "precision": "18"
       },
@@ -802,12 +802,12 @@
       },
       {
         "symbol": "BNC",
-        "feeInPlanks": "646592000",
+        "feeInPlanks": "641024000",
         "precision": "12"
       },
       {
         "symbol": "ASTR",
-        "feeInPlanks": "8082400000000",
+        "feeInPlanks": "7039200000000",
         "precision": "18"
       },
       {
@@ -914,7 +914,7 @@
       },
       {
         "feeInPlanks": "25600000000",
-        "symbol": "KUSD",
+        "symbol": "AUSD",
         "precision": "12"
       }
     ],
