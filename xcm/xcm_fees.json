@@ -1066,7 +1066,7 @@
         "precision": "10"
       },
       {
-        "feeInPlanks": "42650093482045483",
+        "feeInPlanks": "42080730299812326",
         "symbol": "ASTR",
         "precision": "18"
       },
@@ -1084,7 +1084,7 @@
       },
       {
         "symbol": "USDt",
-        "feeInPlanks": "1834",
+        "feeInPlanks": "1696",
         "precision": "6"
       },
       {
@@ -1093,7 +1093,7 @@
       },
       {
         "symbol": "DAI",
-        "feeInPlanks": "2226729965501952",
+        "feeInPlanks": "1681937136606722",
         "precision": "18"
       },
       {
@@ -1102,7 +1102,11 @@
       },
       {
         "symbol": "CFG",
-        "feeInPlanks": "5993158242004530"
+        "feeInPlanks": "5684045671393631"
+      },
+      {
+        "symbol": "vDOT",
+        "feeInPlanks": "3859363"
       }
     ],
     "weight": "480000000"
