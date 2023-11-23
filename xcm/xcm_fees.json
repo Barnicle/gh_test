@@ -14,7 +14,56 @@
   {
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
     "destChain": "Karura",
-    "destXcmFee": [],
+    "destXcmFee": [
+      {
+        "symbol": "QTZ",
+        "feeInPlanks": "64296000000000000"
+      },
+      {
+        "symbol": "KSM",
+        "feeInPlanks": "0"
+      },
+      {
+        "symbol": "BNC",
+        "feeInPlanks": "9952659378"
+      },
+      {
+        "symbol": "KUSD",
+        "feeInPlanks": "1701285567"
+      },
+      {
+        "symbol": "KAR",
+        "feeInPlanks": "6429600000"
+      },
+      {
+        "symbol": "RMRK",
+        "feeInPlanks": "9862406"
+      },
+      {
+        "symbol": "USDt",
+        "feeInPlanks": "803"
+      },
+      {
+        "symbol": "aUSD",
+        "feeInPlanks": "1701285567"
+      },
+      {
+        "symbol": "BSX",
+        "feeInPlanks": "0"
+      },
+      {
+        "symbol": "KINT",
+        "feeInPlanks": "171456000"
+      },
+      {
+        "symbol": "AIR",
+        "feeInPlanks": "6429600000000000"
+      },
+      {
+        "symbol": "KBTC",
+        "feeInPlanks": "16"
+      }
+    ],
     "weight": "800000000"
   },
   {
