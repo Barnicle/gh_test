@@ -254,6 +254,10 @@
       {
         "symbol": "AIR",
         "feeInPlanks": "6429600000000000"
+      },
+      {
+        "symbol": "KUSD",
+        "feeInPlanks": "1701285567"
       }
     ],
     "weight": "800000000"
