@@ -1204,7 +1204,7 @@
       },
       {
         "symbol": "USDt",
-        "feeInPlanks": "1004654066237",
+        "feeInPlanks": "2566",
         "precision": "6"
       },
       {
@@ -1218,7 +1218,7 @@
       },
       {
         "symbol": "INTR",
-        "feeInPlanks": "1281573551"
+        "feeInPlanks": "1080882273"
       },
       {
         "symbol": "CFG",
@@ -1226,7 +1226,7 @@
       },
       {
         "symbol": "vDOT",
-        "feeInPlanks": "1004654066237"
+        "feeInPlanks": "4114595"
       }
     ],
     "weight": "480000000"
