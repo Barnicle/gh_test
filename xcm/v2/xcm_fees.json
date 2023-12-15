@@ -83,7 +83,7 @@
         "precision": "12"
       },
       {
-        "feeInPlanks": "9389180758496",
+        "feeInPlanks": "10945110271985",
         "symbol": "KMA",
         "precision": "12"
       },
@@ -130,7 +130,7 @@
         "feeInPlanks": "8832923611"
       }
     ],
-    "weight": "500000000000"
+    "weight": "960000000"
   },
   {
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
