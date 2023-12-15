@@ -58,7 +58,7 @@
     "destChain": "Moonriver",
     "destXcmFee": [
       {
-        "feeInPlanks": "409165302",
+        "feeInPlanks": "353666632",
         "symbol": "KSM",
         "precision": "12"
       },
@@ -127,10 +127,10 @@
       },
       {
         "symbol": "TUR",
-        "feeInPlanks": "8832923611"
+        "feeInPlanks": "0"
       }
     ],
-    "weight": "500000000000"
+    "weight": "960000000"
   },
   {
     "chainId": "baf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
