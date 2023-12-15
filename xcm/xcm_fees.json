@@ -89,6 +89,10 @@
       {
         "symbol": "CSM",
         "feeInPlanks": "1954820097325"
+      },
+      {
+        "symbol": "TUR",
+        "feeInPlanks": "8832923611"
       }
     ],
     "weight": "500000000000"
