@@ -58,7 +58,7 @@
     "destChain": "Moonriver",
     "destXcmFee": [
       {
-        "feeInPlanks": "409165302",
+        "feeInPlanks": "353666632",
         "symbol": "KSM",
         "precision": "12"
       },
