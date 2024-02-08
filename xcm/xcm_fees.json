@@ -248,7 +248,7 @@
       },
       {
         "symbol": "ZLK",
-        "feeInPlanks": "49999984000000000000000"
+        "feeInPlanks": "4416816534868557184480"
       }
     ],
     "weight": "500000000000"
@@ -403,7 +403,7 @@
       },
       {
         "symbol": "vDOT",
-        "feeInPlanks": "173844663088"
+        "feeInPlanks": "54347826"
       },
       {
         "symbol": "NODL",
@@ -614,7 +614,7 @@
     "destXcmFee": [
       {
         "symbol": "DOT",
-        "feeInPlanks": "4998663720"
+        "feeInPlanks": "1336280"
       },
       {
         "symbol": "USDT",
@@ -676,6 +676,10 @@
       {
         "symbol": "MANTA",
         "feeInPlanks": "6429600000"
+      },
+      {
+        "symbol": "INTR",
+        "feeInPlanks": "6429"
       }
     ],
     "weight": "500000000000"
@@ -788,7 +792,7 @@
     "destXcmFee": [
       {
         "symbol": "DOT",
-        "feeInPlanks": "19441170"
+        "feeInPlanks": "19075327"
       },
       {
         "symbol": "CFG",
@@ -796,7 +800,7 @@
       },
       {
         "symbol": "INTR",
-        "feeInPlanks": "1583536562"
+        "feeInPlanks": "1553167624"
       },
       {
         "symbol": "ASTR",
@@ -808,7 +812,7 @@
       },
       {
         "symbol": "GLMR",
-        "feeInPlanks": "401643905883"
+        "feeInPlanks": "27876869539717027"
       },
       {
         "symbol": "IBTC",
@@ -820,7 +824,7 @@
       },
       {
         "symbol": "USDt",
-        "feeInPlanks": "13517"
+        "feeInPlanks": "13143"
       },
       {
         "symbol": "PHA",
